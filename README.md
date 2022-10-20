@@ -95,6 +95,8 @@ Yang harus kalian lakukan adalah Mendownload dan Menginstall [PyCharm](https://w
 # 💾 Virtual Environment (venv)
 Ini untuk mengatur lokasi dimana file kalian akan disimpan.
 
+![image](gambar/python11.jpg)
+
 # 📁 Menambahkan File Baru
 Klik kanan pada bagian folder Directory, Klik "New", Klik "Python File".
 ### Beri nama Python file, kemudian nanti akan muncul file baru di dalam Virtual Environment (venv)
