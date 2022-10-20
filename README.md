@@ -11,16 +11,25 @@ Pertama yang harus kalian lakukan adalah Mendownload dan Menginstall program [Py
 # 〽️ Menambahkan Python Path Secara Manual
 Python Path digunakan agar dapat memanggil Python dengan CMD.
 
+![imagepath](gambar/python3.jpg)
+
 
 # Hubungkan CMD dengan Python menggunakan Path
 Gunakan shortcut "🪟 + R" kemudian ketik "cmd",
+
+![imagepath](gambar/python9.jpg)
+
 Setelah itu ketik "python" untuk memanggil path Python.
+
+![imagecmd](gambar/python10.jpg)
 
 # 👾 Perintah Dasar Python
 ### Mengambil Input
 > print("Hello)
 >
 > print("Saya sedang belajar Python")
+
+![imagepath](gambar/python1.jpg)
 
 # 🧮 Menjumlahkan dua buah bilangan menggunakan variabel a dan b
 - Mendefinisikan variable ***a*** dengan nilai 8
@@ -38,8 +47,13 @@ Setelah itu ketik "python" untuk memanggil path Python.
 > 
 > print ("hasil penjumlahan a+b",***a+b***)
 
+![imagesample1](gambar/python2.jpg)
+
 # 🧩 Menjalankan IDLE
 Buat file baru dengan nama latihan5.py (Pastikan lokasi file pada folder **lab2py**).
+
+![imageidledir](gambar/python4.jpg)
+
 ### Menggunakan fungsi ***Input*** untuk mengambil nilai variabel dari keyboard
 > ***input nilai variable***
 > 
@@ -67,6 +81,8 @@ Buat file baru dengan nama latihan5.py (Pastikan lokasi file pada folder **lab2p
 > 
 > print("Hasil pembagian {1}/{0}=%s").format(a,b) %(a/b))
 
+![imagepath](gambar/python5.jpg)
+
 <p align="left">
   <a href="https://www.jetbrains.com/pycharm/download/">
       <img width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png">
@@ -77,11 +93,13 @@ Buat file baru dengan nama latihan5.py (Pastikan lokasi file pada folder **lab2p
 Yang harus kalian lakukan adalah Mendownload dan Menginstall [PyCharm](https://www.jetbrains.com/pycharm/download/)
 
 # 💾 Virtual Environment (venv)
-Ini untuk mengatur lokasi dimana file kalian akan disimpan
+Ini untuk mengatur lokasi dimana file kalian akan disimpan.
 
 # 📁 Menambahkan File Baru
 Klik kanan pada bagian folder Directory, Klik "New", Klik "Python File".
 ### Beri nama Python file, kemudian nanti akan muncul file baru di dalam Virtual Environment (venv)
+
+![imagenewfile](gambar/python7.jpg)
 
 # ⚪ Menghitung Luas dan Keliling Lingkaran dengan PyCharm
 Sebagai contoh saya akan menghitung Luas dan Keliling Lingkaran menggunakan program PyCharm.
@@ -96,6 +114,8 @@ Sebagai contoh saya akan menghitung Luas dan Keliling Lingkaran menggunakan prog
 > print("Luas Lingkaran     : ",l)
 > 
 > print("Keliling Lingkaran : ",k)
+
+![imagepath](gambar/python8.jpg)
 
 
 
